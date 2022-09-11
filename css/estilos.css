@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/codigoHTML.webp"), #49A3D6;
+  background: url("../img/codigoHTML.webp");
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
