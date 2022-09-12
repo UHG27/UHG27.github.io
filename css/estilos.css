@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/codigoHTML.webp") rgb(73, 181, 175);
+  background: url("../img/bg.jpg") rgb(73, 181, 175);
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
